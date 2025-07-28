@@ -1,0 +1,50 @@
+﻿@model FormUsingHelper.Models.Employee
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+
+<div class="container">
+    <div class="row">
+
+        <div class="col-sm-4">
+            <form class="d-grid" asp-action="Index" asp-controller="Home" method="post" >
+                <label asp-for="Name">Name</label>
+                <input asp-for="Id" placeholder="Enter Id" class="form-control" />
+                <br />
+                <input asp-for="Name" placeholder="Enter Name" class="form-control" />
+                <br />
+                <select asp-for="Gender" class="form-control" asp-items="Html.GetEnumSelectList<Gender>()">
+                    <option value=""> Select Gender</option>
+                </select>
+                <br />
+                <label>Married</label>
+                <div class="form-check">
+                    <input type="radio" class="form-check-input" value="Yes" asp-for="Married" />
+                    <label for="Married" class="form-check-label">Yes</label>
+                </div>
+                <div class="form-check">
+                    <input type="radio" class="form-check-input" value="No" asp-for="Married" />
+                    <label for="Married" class="form-check-label">No</label>
+                </div>
+                
+                <br />
+                <input asp-for="Degination" placeholder="Degination" class="form-control" ros="5" col="6"/>
+                <br />
+                @*                 <input asp-for="Description" placeholder="Description" class="form-control" />
+ *@                <textarea asp-for="Description" placeholder="Description" class="form-control">
+
+                </textarea>
+                <br />
+
+                <input type="submit" class="btn btn-outline-primary d-block" />
+            </form>
+        </div>
+    </div>
+</div>

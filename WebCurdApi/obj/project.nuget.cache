@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "TNJ8LffeyDg=",
+  "success": false,
+  "projectFilePath": "E:\\Learning\\DorNetCore-Learning\\WebCurdApi\\WebCurdApi.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.\r\n  An error occurred while sending the request.\r\n  The remote name could not be resolved: 'api.nuget.org'",
+      "projectPath": "E:\\Learning\\DorNetCore-Learning\\WebCurdApi\\WebCurdApi.csproj",
+      "filePath": "E:\\Learning\\DorNetCore-Learning\\WebCurdApi\\WebCurdApi.csproj",
+      "libraryId": "Microsoft.AspNetCore.OpenApi",
+      "targetGraphs": []
+    }
+  ]
+}

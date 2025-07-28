@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Learning\\DorNetCore-Learning\\CodeFirstAspWithEF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5350BF2D-253A-4287-B1B8-D7BDA93CEDB6}|CodeFirstAspWithEF.csproj|e:\\learning\\dornetcore-learning\\codefirstaspwithef\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5350BF2D-253A-4287-B1B8-D7BDA93CEDB6}|CodeFirstAspWithEF.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5350BF2D-253A-4287-B1B8-D7BDA93CEDB6}|CodeFirstAspWithEF.csproj|e:\\learning\\dornetcore-learning\\codefirstaspwithef\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5350BF2D-253A-4287-B1B8-D7BDA93CEDB6}|CodeFirstAspWithEF.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5350BF2D-253A-4287-B1B8-D7BDA93CEDB6}|CodeFirstAspWithEF.csproj|e:\\learning\\dornetcore-learning\\codefirstaspwithef\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5350BF2D-253A-4287-B1B8-D7BDA93CEDB6}|CodeFirstAspWithEF.csproj|solutionrelative:views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5350BF2D-253A-4287-B1B8-D7BDA93CEDB6}|CodeFirstAspWithEF.csproj|e:\\learning\\dornetcore-learning\\codefirstaspwithef\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5350BF2D-253A-4287-B1B8-D7BDA93CEDB6}|CodeFirstAspWithEF.csproj|solutionrelative:views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5350BF2D-253A-4287-B1B8-D7BDA93CEDB6}|CodeFirstAspWithEF.csproj|e:\\learning\\dornetcore-learning\\codefirstaspwithef\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5350BF2D-253A-4287-B1B8-D7BDA93CEDB6}|CodeFirstAspWithEF.csproj|solutionrelative:views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5350BF2D-253A-4287-B1B8-D7BDA93CEDB6}|CodeFirstAspWithEF.csproj|e:\\learning\\dornetcore-learning\\codefirstaspwithef\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5350BF2D-253A-4287-B1B8-D7BDA93CEDB6}|CodeFirstAspWithEF.csproj|solutionrelative:views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5350BF2D-253A-4287-B1B8-D7BDA93CEDB6}|CodeFirstAspWithEF.csproj|e:\\learning\\dornetcore-learning\\codefirstaspwithef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5350BF2D-253A-4287-B1B8-D7BDA93CEDB6}|CodeFirstAspWithEF.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5350BF2D-253A-4287-B1B8-D7BDA93CEDB6}|CodeFirstAspWithEF.csproj|e:\\learning\\dornetcore-learning\\codefirstaspwithef\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5350BF2D-253A-4287-B1B8-D7BDA93CEDB6}|CodeFirstAspWithEF.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5350BF2D-253A-4287-B1B8-D7BDA93CEDB6}|CodeFirstAspWithEF.csproj|e:\\learning\\dornetcore-learning\\codefirstaspwithef\\migrations\\20250727105631_addclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5350BF2D-253A-4287-B1B8-D7BDA93CEDB6}|CodeFirstAspWithEF.csproj|solutionrelative:migrations\\20250727105631_addclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5350BF2D-253A-4287-B1B8-D7BDA93CEDB6}|CodeFirstAspWithEF.csproj|e:\\learning\\dornetcore-learning\\codefirstaspwithef\\migrations\\20250727104343_codefirstcreatedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5350BF2D-253A-4287-B1B8-D7BDA93CEDB6}|CodeFirstAspWithEF.csproj|solutionrelative:migrations\\20250727104343_codefirstcreatedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5350BF2D-253A-4287-B1B8-D7BDA93CEDB6}|CodeFirstAspWithEF.csproj|e:\\learning\\dornetcore-learning\\codefirstaspwithef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5350BF2D-253A-4287-B1B8-D7BDA93CEDB6}|CodeFirstAspWithEF.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5350BF2D-253A-4287-B1B8-D7BDA93CEDB6}|CodeFirstAspWithEF.csproj|e:\\learning\\dornetcore-learning\\codefirstaspwithef\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5350BF2D-253A-4287-B1B8-D7BDA93CEDB6}|CodeFirstAspWithEF.csproj|solutionrelative:models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\Learning\\DorNetCore-Learning\\CodeFirstAspWithEF\\Views\\Home\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Delete.cshtml",
+              "ToolTip": "E:\\Learning\\DorNetCore-Learning\\CodeFirstAspWithEF\\Views\\Home\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Home\\Delete.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-27T12:21:21.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\Learning\\DorNetCore-Learning\\CodeFirstAspWithEF\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Details.cshtml",
+              "ToolTip": "E:\\Learning\\DorNetCore-Learning\\CodeFirstAspWithEF\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-27T11:59:00.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\Learning\\DorNetCore-Learning\\CodeFirstAspWithEF\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Edit.cshtml",
+              "ToolTip": "E:\\Learning\\DorNetCore-Learning\\CodeFirstAspWithEF\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Home\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-27T11:48:56.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Learning\\DorNetCore-Learning\\CodeFirstAspWithEF\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Create.cshtml",
+              "ToolTip": "E:\\Learning\\DorNetCore-Learning\\CodeFirstAspWithEF\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-27T11:12:19.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Learning\\DorNetCore-Learning\\CodeFirstAspWithEF\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Learning\\DorNetCore-Learning\\CodeFirstAspWithEF\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwCUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-27T11:07:12.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Learning\\DorNetCore-Learning\\CodeFirstAspWithEF\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Learning\\DorNetCore-Learning\\CodeFirstAspWithEF\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAIwGsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T11:02:35.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250727105631_addclass.cs",
+              "DocumentMoniker": "E:\\Learning\\DorNetCore-Learning\\CodeFirstAspWithEF\\Migrations\\20250727105631_addclass.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250727105631_addclass.cs",
+              "ToolTip": "E:\\Learning\\DorNetCore-Learning\\CodeFirstAspWithEF\\Migrations\\20250727105631_addclass.cs",
+              "RelativeToolTip": "Migrations\\20250727105631_addclass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T10:56:32.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250727104343_CodeFirstCreateDB.cs",
+              "DocumentMoniker": "E:\\Learning\\DorNetCore-Learning\\CodeFirstAspWithEF\\Migrations\\20250727104343_CodeFirstCreateDB.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250727104343_CodeFirstCreateDB.cs",
+              "ToolTip": "E:\\Learning\\DorNetCore-Learning\\CodeFirstAspWithEF\\Migrations\\20250727104343_CodeFirstCreateDB.cs",
+              "RelativeToolTip": "Migrations\\20250727104343_CodeFirstCreateDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T10:43:43.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Learning\\DorNetCore-Learning\\CodeFirstAspWithEF\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Learning\\DorNetCore-Learning\\CodeFirstAspWithEF\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAArwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T10:35:02.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Learning\\DorNetCore-Learning\\CodeFirstAspWithEF\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\Learning\\DorNetCore-Learning\\CodeFirstAspWithEF\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-27T10:29:58.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentDbContext.cs",
+              "DocumentMoniker": "E:\\Learning\\DorNetCore-Learning\\CodeFirstAspWithEF\\Models\\StudentDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\StudentDbContext.cs",
+              "ToolTip": "E:\\Learning\\DorNetCore-Learning\\CodeFirstAspWithEF\\Models\\StudentDbContext.cs",
+              "RelativeToolTip": "Models\\StudentDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T07:51:21.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\Learning\\DorNetCore-Learning\\CodeFirstAspWithEF\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "E:\\Learning\\DorNetCore-Learning\\CodeFirstAspWithEF\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T07:45:54.395Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+﻿@model List<Student>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+
+@* <a href="Home/About">About</a>
+@Html.ActionLink("About","About") *@
+
+@* <table border="1px">
+    <thead>
+        <tr>
+            <td>StudentId</td>
+            <td>Name</td>
+            <td>Gender</td>
+            <td>Class</td>
+        </tr>
+    </thead>   
+    <tbody>
+       
+            @{
+                foreach (var item in Model)
+                {
+
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Name</td>
+                    <td>@item.Gender</td>
+                    <td>@item.Class</td>
+                </tr>
+
+                    
+
+                }      
+            }
+        
+    </tbody>                
+   
+</table> *@
+
+
+
